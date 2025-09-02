@@ -18,7 +18,7 @@ I wanted to:
 
 ---
 
-## 🛠️ My First Attempt (v0)
+## 🛠️ My First Attempt (v1)
 
 **Notebook:** `01_cartoonizer_baseline.ipynb`  
 
